@@ -180,7 +180,8 @@ The Collection Visualization Beta of Art Archives, Seoul Museum of Art (SeMA AA)
 
 ## Previous Research
 
-- The Collection Visualization Beta, developed based on the Rim Dongsik Collection, can be accessed via the [SeMA AA GitHub account (Click)](https://github.com/SeMA-AA).
+- The Collection Visualization Beta, developed in 2024 based on the Rim Dongsik Collection, can be accessed via the [SeMA AA GitHub account (Click)](https://github.com/SeMA-AA/Rim-Dongsik-Collection-RiC).
+- The Collection Visualization Beta, developed in 2025 based on the Jung Jungyeob Collection, can be accessed via the [SeMA AA GitHub account (Click)](https://github.com/SeMA-AA/Jung-Jungyeob-Collection-RiC).
 
 ## Contact
 
