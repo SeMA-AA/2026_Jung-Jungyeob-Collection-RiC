@@ -113,10 +113,10 @@ The Collection Visualization Beta of Art Archives, Seoul Museum of Art (SeMA AA)
 - Structure of the Core Workflow Models
   - Based on the analysis of entities and relations in existing collections, we categorized workflows such as acquisition, registration, management, and utilization, as well as relationships between artworks and art archival materials, into ten core models. Each model was developed based on a common structure comprising the agents responsible for each workflow, the objects involved, applicable regulations, and related records, with additional entities and relations reflecting the unique characteristics of individual activities. ※ The core workflow models include both activity-centered models focusing on acquisition, management, and utilization, and relationship-centered models focusing on artworks, art archival materials, and storage facilities.
   - The ten core models are organized into the following four categories:
-    - Acquisition and Registration: Acquisition Activities, Acquisition Appraisal, Donation and Accessioning, and Registration
-    - Management and Operations: Storage Facilities, Transfer of Administrative Responsibilities, and Management and Operations
-    - Access and Utilization: Exhibitions, Education, and Programs; Temporary Removal, Loans, and Public Access
-    - Artworks and Art Archival Materials: Artworks and Archival Materials
+    1\. Acquisition and Registration: Acquisition Activities, Acquisition Appraisal, Donation and Accessioning, and Registration
+    2\. Management and Operations: Storage Facilities, Transfer of Administrative Responsibilities, and Management and Operations
+    3\.- Access and Utilization: Exhibitions, Education, and Programs; Temporary Removal, Loans, and Public Access
+    4\.- Artworks and Art Archival Materials: Artworks and Archival Materials
 
 - Acquisition and Registration
   - Activities and relationships involved in the acquisition of collections.
