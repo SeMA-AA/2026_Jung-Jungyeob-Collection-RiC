@@ -180,8 +180,9 @@
 
 ## 선행연구
 
-- 임동식 컬렉션을 대상으로 구축한 컬렉션시각화 Beta는 [SeMA AA 깃허브 계정(클릭)](https://github.com/SeMA-AA)에서 확인할 수 있습니다.
-
+- 2024년 임동식 컬렉션을 대상으로 구축한 컬렉션시각화 Beta는 [SeMA AA 깃허브 계정(클릭)](https://github.com/SeMA-AA/Rim-Dongsik-Collection-RiC)에서 확인할 수 있습니다.
+- 2025년 정정엽 컬렉션을 대상으로 구축한 컬렉션시각화 Beta는 [SeMA AA 깃허브 계정(클릭)](https://github.com/SeMA-AA/Jung-Jungyeob-Collection-RiC)에서 확인할 수 있습니다.
+  
 ## 문의
 
 - semaaa@seoul.go.kr
