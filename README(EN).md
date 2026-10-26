@@ -1,5 +1,9 @@
 # Collection Visualization Beta
 
+<p align="right">
+  <a href="./README.md"><strong>🌐 한국어 버전</strong></a>
+</p>
+
 ## 1. Overview
 
 The Collection Visualization Beta of Art Archives, Seoul Museum of Art (SeMA AA) is an ontology graph visualizing its holdings using Records in Contexts (RiC). All concepts related to the collection are represented as circular nodes—key points of connection—with lines indicating the relationships between them. This includes not only collection items, authority records, and thesauri, but also previously unlinked concepts such as artworks, departments, and regulations. Through the Collection Visualization Beta, users can explore and understand at a glance the contexts in which collection items were created, acquired, and utilized.
