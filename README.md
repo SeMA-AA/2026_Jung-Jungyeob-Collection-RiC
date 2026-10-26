@@ -38,38 +38,90 @@
   - 신규 개체와 관계의 정의 및 적용 기준을 정리하고, 정정엽 컬렉션의 실제 데이터를 용하여 적합성을 검토하였습니다.
 - 신규 개체(Entity)
 
-| 개체&nbsp;ID | 개체명 | 개체의&nbsp;유형 | 정의 |
-| :---: | :---: | :---: | :---: |
-| RiC&#8209;E23 | Artwork | 작품 | 예술적 활동을 통해 구상되거나 제작된 개별 예술 창작물로서, 물리적·전자적 구현형과 구분되는 식별 가능한 작품 개체 |
+<table>
+  <tr>
+    <th width="180" align="center">개체&nbsp;ID</th>
+    <th width="160" align="center">개체명</th>
+    <th width="180" align="center">개체의&nbsp;유형</th>
+    <th width="500" align="center">정의</th>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;E23</td>
+    <td align="center">Artwork</td>
+    <td align="center">작품</td>
+    <td align="center">예술적 활동을 통해 구상되거나 제작된 개별 예술 창작물로서, 물리적·전자적 구현형과 구분되는 식별 가능한 작품 개체</td>
+  </tr>
+</table>
 
 - 신규 관계(Relation)
 
-| 관계&nbsp;ID | 관계명 | 한글명 |
-| :---: | :---: | :---: |
-| RiC&#8209;R087 | has target | 대상으로 하다 |
-| RiC&#8209;R088 | organizes or organized | 계획·조정·운영을 주관하다 |
-| RiC&#8209;R089 | enters or entered into agreement with | 협약하다 |
-| RiC&#8209;R090 | uses or used | 사용하다 |
-| RiC&#8209;R091 | produces or produced | 생산하다 |
-| RiC&#8209;R092 | requests or requested | 신청하다 |
-| RiC&#8209;R093 | approves or approved | 승인하다 |
-| RiC&#8209;R094 | originates or originated | 창작하다 |
-| RiC&#8209;R095 | provides context for | 맥락을 제공하다 |
+<table>
+  <tr>
+    <th width="180" align="center">관계&nbsp;ID</th>
+    <th width="460" align="center">관계명</th>
+    <th width="380" align="center">한글명</th>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R087</td>
+    <td align="center">has target</td>
+    <td align="center">대상으로 하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R088</td>
+    <td align="center">organizes or organized</td>
+    <td align="center">계획·조정·운영을 주관하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R089</td>
+    <td align="center">enters or entered into agreement with</td>
+    <td align="center">협약하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R090</td>
+    <td align="center">uses or used</td>
+    <td align="center">사용하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R091</td>
+    <td align="center">produces or produced</td>
+    <td align="center">생산하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R092</td>
+    <td align="center">requests or requested</td>
+    <td align="center">신청하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R093</td>
+    <td align="center">approves or approved</td>
+    <td align="center">승인하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R094</td>
+    <td align="center">originates or originated</td>
+    <td align="center">창작하다</td>
+  </tr>
+  <tr>
+    <td align="center">RiC&#8209;R095</td>
+    <td align="center">provides context for</td>
+    <td align="center">맥락을 제공하다</td>
+  </tr>
+</table>
 
 ## 4. 컬렉션시각화 Beta의 업무별 핵심 모형
 
 - 업무별 핵심 모형의 구성
   - 기존 컬렉션의 개체·관계 분석 결과를 바탕으로 수집·등록·관리·활용 등의 업무 과정과 작품·예술자료의 관계를 10개의 핵심 모형으로 유형화하였습니다. 각 모형은 업무별 수행 주체·대상·규정·관련 기록 등의 공통 구조를 기반으로, 개별 업무의 특성에 따른 개체와 관계를 추가하여 구성하였습니다. (※ 업무별 핵심 모형에는 수집·관리·활용 등의 활동을 중심으로 구성한 모형과 작품·예술자료 및 보존공간의 관계를 중심으로 구성한 모형이 포함되어 있습니다.)
 
-  -  핵심 업무 모형은 다음의 4개 영역으로 구분할 수 있습니다.
+  - 핵심 업무 모형은 다음의 4개 영역으로 구분할 수 있습니다.
 
-  - 수집 및 등록 : 수집활동, 수집심의, 기증·인수, 등록
+    - 수집 및 등록 : 수집활동, 수집심의, 기증·인수, 등록
 
-  - 관리 및 운영 : 보존공간, 업무이관, 관리 및 운영
+    - 관리 및 운영 : 보존공간, 업무이관, 관리 및 운영
 
-  - 공개 및 활용 : 전시·교육·프로그램, 반출·대여·공개
+    - 공개 및 활용 : 전시·교육·프로그램, 반출·대여·공개
 
-  - 작품·예술자료 : 작품·자료
+    - 작품·예술자료 : 작품·자료
 
 - 수집 및 등록 : 컬렉션의 수집 과정에서 발생하는 활동과 관계
 
@@ -85,7 +137,9 @@
 
 - 작품과 예술자료 : 작가·작품·컬렉션·예술자료의 맥락적 관계
 
-![작품과 예술자료의 관계 모형](./images/image5.jpg)
+<p align="center">
+  <img src="./images/image5.jpg" alt="작품과 예술자료의 관계 모형" width="500">
+</p>
 
 - RiC-CM 매핑 데이터의 RiC-O 전환 및 시각화
   - RiC-CM 매핑 데이터를 온톨로지 그래프로 시각화하기 위해서는 RDF 형태의 RiC-O로 전환해야 합니다. ICA가 RiC-O의 구성 요소를 구조화한 기본 파일을 RDF로 배포하고 있기 때문입니다.
